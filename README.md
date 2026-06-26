@@ -1,5 +1,12 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>* 🔭 **I'm currently working on:** Full-stack web applications using React, JavaScript, TypeScript, .NET, and AI-powered projects.<br>* 🤝 **I'm looking to collaborate on:** Open-source projects, AI/ML applications, web development, and hackathon projects.<br>* 🆘 **I'm looking for help with:** Advanced backend development, cloud deployment, system design, and scalable application architecture.<br>* 🌱 **I'm currently learning:** ASP.NET Core, C#, React, TypeScript, Machine Learning, and Data Structures & Algorithms.<br>* 💬 **Ask me about:** Java, Python, React, JavaScript, web development, Git, AI tools, and hackathons.<br>* ⚡ **Fun fact:** I love turning ideas into real-world applications, enjoy participating in hackathons, and I'm always exploring new technologies to build smarter solutions.<br>
+👋 Hi, I'm **Rahul Raj**
+
+💻 Computer Science student passionate about **Full-Stack Development, .NET, AI, and Open Source**.
+
+* 🔭 Building full-stack applications with **React, JavaScript, TypeScript, and ASP.NET Core**.
+* 🌱 Learning **C#, Machine Learning, Cloud Technologies, and System Design**.
+* 🤝 Open to collaborating on **open-source, AI/ML, and innovative web projects**.
+* 💬 Ask me about **Java, Python, React, JavaScript, Git, and Web Development**.
+* ⚡ I enjoy building real-world projects, participating in hackathons, and exploring new technologies.
 
 
 ## 🌐 Socials:
