@@ -1,4 +1,4 @@
-👋 Hi, I'm **Rahul Raj**
+##👋 Hi, I'm **Rahul Raj**
 
 💻 Computer Science student passionate about **Full-Stack Development, .NET, AI, and Open Source**.
 
